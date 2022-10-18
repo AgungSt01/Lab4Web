@@ -13,3 +13,17 @@ mengaturnya.
 Tambahkan element div lainnya seteleah div3 dan atur property clear pada CSS.
 Berikut syntax dan hasilnya :
 ![Gambar 2](screenshoot/ss2.png)
+
+# lab4_layout
+
+### Membuat Kerangka Layout Dengan Semantics Element
+Setelah membuat folder dan file html serta css yang baru, untuk step selanjutnya kita membuat rangka layout dengan semantics. Berikut adalah syntax dan hasilnya :
+![Gambar 1](screenshoot/s41.png)
+
+### Membuat Layout
+Kemudian di sini kita akan menambahkan kode CSS untuk membuat layoutnya. Berikut sytanx dan hasilnya :
+![Gambar 2](screenshoot/s42.png)
+
+### Membuat Navigasi
+Langkah berikut nya dalam praktikum ini adalah mengatur navigasi, dengan syntax dan hasil sebagai berikut :
+![Gambar 3](screenshoot/s43.png)
