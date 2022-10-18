@@ -28,7 +28,7 @@ Kemudian di sini kita akan menambahkan kode CSS untuk membuat layoutnya. Berikut
 Langkah berikut nya dalam praktikum ini adalah mengatur navigasi, dengan syntax dan hasil sebagai berikut :
 ![Gambar 3](screenshoot/s43.png)
 
-### Membuat Layout Main Dan Sidebar
+### Membuat Hero Panel
 Lelanjutnya membuat hero panel. Tambahkan kode HTML dan CSS seperti gambar berikut : 
 ![Gambar 4](screenshoot/s44.png) ![Gambar 5](screenshoot/s45.png)
 
